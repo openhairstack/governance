@@ -20,6 +20,12 @@ do, and how decisions get made. That's this repo. Start here → **[CHARTER.md](
 | [LICENSING.md](LICENSING.md) | License choices, why, and the third-party picture |
 | [rfcs/](rfcs/) | Design proposals (numbered, public, 7-day comment) |
 
-## Interim note (founding period)
-
 Until the first cohort of 3+ external maintainers exists, the founding maintainers operate under the Charter and this document with one addition: any dispute that cannot be resolved in 7 days is decided by the founder, in writing, with reasoning. That clause expires when the Council reaches 5 members.
+
+---
+
+### Questions & Community Support
+
+Connect with founder Salik Shah:
+* **DM on X:** [@salik](https://x.com/salik)
+* **Discussions:** [GitHub Discussions](https://github.com/orgs/openhairstack/discussions)
