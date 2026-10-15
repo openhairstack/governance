@@ -53,7 +53,7 @@ Heavy ML training runs on free cloud GPUs — don't do it on a laptop. See `foll
 
 ## Getting help
 
-Discord `#contributing` is the fastest channel. Issues are fine too. Nothing here is obvious to everyone — ask early.
+Discord `#contributing` is the fastest channel once it's live. Until then — or if you don't do chat — DM [@salik on X](https://x.com/salik) or open a discussion in this repo. Nothing here is obvious to everyone — ask early.
 
 ## Recognition
 

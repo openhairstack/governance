@@ -1,11 +1,18 @@
 # Governance
 
-Legal, ethical, and decision-making documents for Open Hair Stack.
+> **The rules of the project, in writing.** One page to read, a handful to reference.
+
+### In plain English
+
+Every open project that lasts has the same boring thing: it says what it's for, what it won't
+do, and how decisions get made. That's this repo. Start here → **[CHARTER.md](CHARTER.md)**
+(one page: what we do, what we never do, and why).
 
 | Document | What it covers |
 |---|---|
 | [CHARTER.md](CHARTER.md) | Vision, mission, scope, principles — read this first |
 | [GOVERNANCE.md](GOVERNANCE.md) | Roles, decision process, working groups, bounties |
+| [GLOSSARY.md](GLOSSARY.md) | Every technical term in plain English (written for press) |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute, sign-off rules, style |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Behavior standards and enforcement |
 | [SECURITY.md](SECURITY.md) | Vulnerability disclosure |

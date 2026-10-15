@@ -6,10 +6,9 @@ Security fixes apply to the latest release of `follicle-detect`, `scalp-analyzer
 
 ## Reporting a vulnerability
 
-**Do not open a public issue.** Until the project registers `openhairstack.org`, report
-privately via GitHub's "Report a vulnerability" button on the repo (Security → Report), or an
-open DM to a listed maintainer on Discord (see `MAINTAINERS.md`). A dedicated
-`security@openhairstack.org` alias will be announced when it exists.
+**Do not open a public issue.** Report privately by DMing [@salik on X](https://x.com/salik),
+or use GitHub's "Report a vulnerability" button on the repo (Security → Report) for anything
+involving credentials or dependency supply chain.
 
 Include in your report:
 

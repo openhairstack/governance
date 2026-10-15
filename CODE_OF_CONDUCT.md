@@ -35,12 +35,10 @@ This code applies within all community spaces (GitHub, Discord, Spaces, calls) a
 
 ## Enforcement
 
-Report unacceptable behavior to the Core Maintainer Council — fastest route is an open DM to any
-listed maintainer in Discord, or a private GitHub discussion in this repo
-(see `MAINTAINERS.md` for who's on the Council). Until the project registers
-`openhairstack.org`, Discord + GitHub discussions are the official channels;
-this section will be updated when a dedicated alias exists.
-All complaints will be reviewed and investigated promptly and fairly.
+Report unacceptable behavior to the Core Maintainer Council — the official channel is a DM to
+[@salik on X](https://x.com/salik), or a private GitHub discussion in this repo
+(see `MAINTAINERS.md`). If the report involves the founder, tag any other named maintainer on
+X instead; their DM stays open. All complaints will be reviewed and investigated promptly and fairly.
 
 All maintainers are obligated to respect the privacy and security of the reporter of any incident.
 
