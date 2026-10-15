@@ -43,7 +43,7 @@ python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\acti
 pip install -r requirements.txt
 ```
 
-Heavy ML training runs on free cloud GPUs — don't do it on a laptop. See `follicle-detect/notebooks/train_colab.ipynb`.
+Model training is designed to run on on-demand cloud GPUs — see `follicle-detect/notebooks/train_colab.ipynb`.
 
 ## Code style
 
