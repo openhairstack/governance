@@ -8,7 +8,7 @@
 | Documentation, guides, educational content | **CC BY 4.0** | Attribution-preserving, reuse-friendly |
 | Datasets created by this project | **CC BY 4.0** | The license hygiene standard the field lacks |
 | Model weights trained by this project | **Apache 2.0** | Treated as software artifacts we publish |
-| Hardware (future) | **CERN-OHL-2** | Mature OSHW license with strong reciprocity variants |
+| Hardware (future) | **CERN-OHL-S-2.0** | Mature OSHW license (strongly reciprocal variant) |
 
 ## The rule
 

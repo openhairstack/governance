@@ -9,8 +9,8 @@ If a doc here confuses you, that's a bug — tell us.
 as a hair factory.
 
 **Follicular unit (FU).** The bundle of hairs that share one factory opening. Naturally grows
-in 1–6 hairs per unit, usually. Counting how many hairs a unit contains is *the* useful number
-in hair transplant work, because the whole bundle gets moved together.
+1–5 hairs per unit, very rarely more. Counting how many hairs a unit contains is *the* useful
+number in hair transplant work, because the whole bundle gets moved together.
 
 **Graft.** Unit of transplant currency = one follicular unit, removed and re-implanted. A
 "2,000-graft" surgery moves 2,000 of these bundles.
@@ -46,7 +46,7 @@ correct if the box overlaps by >50%; mAP50-95 is stricter. Higher = better.
 **Box (bounding box) / OBB (oriented bounding box).** The rectangle the model draws around
 each follicle. An OBB is a rotated rectangle — better for angled follicles, harder to label.
 
-**Class.** The label category. Our classes are fu1…fu5 — the hair-count buckets.
+**Class.** The label category. Our classes are fu1…fu5 — exact hair counts (fu1 = 1 hair … fu4 = 4; fu5 = 5 or more).
 
 **Baseline.** The first, deliberately simple, fully-published model. A baseline isn't the
 best model — it's the floor everyone improves on.

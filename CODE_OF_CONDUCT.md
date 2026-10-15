@@ -37,8 +37,9 @@ This code applies within all community spaces (GitHub, Discord, Spaces, calls) a
 
 Report unacceptable behavior to the Core Maintainer Council — the official channel is a DM to
 [@salik on X](https://x.com/salik), or a private GitHub discussion in this repo
-(see `MAINTAINERS.md`). If the report involves the founder, tag any other named maintainer on
-X instead; their DM stays open. All complaints will be reviewed and investigated promptly and fairly.
+(see `MAINTAINERS.md`). If the report involves the founder, also file it through GitHub's
+private abuse channel (github.com/contact/report-abuse) so an independent record exists.
+All complaints will be reviewed and investigated promptly and fairly.
 
 All maintainers are obligated to respect the privacy and security of the reporter of any incident.
 

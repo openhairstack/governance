@@ -13,7 +13,7 @@ Build the open-source stack for AI-assisted hair restoration: open datasets, ben
 ## Why this project exists
 
 1. **The robots are real and the software is closed.** Robotic follicular unit extraction (FUE) is commercially deployed (ARTAS, HAIRO). You cannot read the detection code, inspect the planning algorithm, retrain on your own data, or replicate the results.
-2. **The science exists but is not integrated.** Follicle detection research (YOLO-OHFD, Hair-YOLO, the Fudan dataset) and partially licensed datasets exist, but they are scattered, unreproduced, and mostly abandonware. No open benchmark, no model zoo, no community.
+2. **The science exists but is not integrated.** Follicle detection research (YOLO-OHFD, Hair-YOLO, the Fudan/Huashan dataset, ICANN 2023) and partially licensed datasets exist, but they are scattered, unreproduced, and mostly abandonware. No open benchmark, no model zoo, no community.
 3. **Transparency is achievable here.** Unlike most surgical robotics, hair restoration is cosmetic, high-volume, and image-driven — the ideal beachhead for open surgical-AI practices.
 
 ## Scope

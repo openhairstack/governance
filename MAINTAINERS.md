@@ -8,14 +8,16 @@
 | _(open seat)_ | | Research/science lead | |
 | _(open seat)_ | | CV/ML lead | |
 | _(open seat)_ | | Data lead | |
+| _(open seat)_ | | Community/process lead | |
 
-Three seats open by design. Appointment path: see GOVERNANCE.md.
+Four of five council seats are open by design (GOVERNANCE.md sets the Council at 5 seats).
+Appointment path: see GOVERNANCE.md.
 
 **Reach a maintainer:** DM [@salik](https://x.com/salik) on X, or open a discussion in this repo.
 
 ## What maintainers do
 
-- Review and merge PRs within one week
+- Review PRs within 72 hours where possible; larger reviews within a week
 - Own the health of their subproject's docs, tests, and issue triage
 - Vote on RFCs
 - Enforce the Code of Conduct

@@ -12,7 +12,7 @@ Thanks for showing up. This project only works if the first 20 contributors have
 ## Ways to contribute (easiest first)
 
 ### 1. Label data (no coding)
-We need accurate follicular-unit annotations. See `data-pipeline/ANNOTATION_GUIDE.md`, then pick an open item on the [bounties board](link).
+We need accurate follicular-unit annotations. See `data-pipeline/ANNOTATION_GUIDE.md`, then pick an open item labeled `bounty` or `help wanted` in the openhairstack issue trackers.
 
 ### 2. Validate a dataset
 Run `data-pipeline/scripts/validate_dataset.py` against any public follicle dataset and file an issue with the report. Finding broken annotations in existing datasets is genuinely valuable work.
@@ -24,7 +24,7 @@ Run `data-pipeline/scripts/validate_dataset.py` against any public follicle data
 Use the Colab notebook in `follicle-detect/notebooks/`, publish results as an issue in the model-zoo tracker with your metrics.
 
 ### 5. Write the benchmark
-`follicle-detect/benchmark/` needs a clean, CI-runnable evaluation on all license-clean datasets. This is the highest-leverage code contribution right now.
+A benchmark harness (directory `follicle-detect/benchmark/`, not yet created) that runs CI-runnable evaluation on all license-clean datasets. This is the most valuable code contribution right now.
 
 ## Pull request checklist
 
@@ -47,7 +47,7 @@ Heavy ML training runs on free cloud GPUs — don't do it on a laptop. See `foll
 
 ## Code style
 
-- Python: `ruff` for lint, `black` for format. Run `make lint` where a Makefile exists.
+- Python: `ruff` for lint, `black` for format (or the repo's Makefile target, where one exists).
 - Keep commits small. Write the "why" in the commit message, not the "what".
 - No secrets, tokens, or model weights > 100MB committed to git — use Git LFS or Hugging Face.
 
