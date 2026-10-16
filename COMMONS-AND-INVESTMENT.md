@@ -149,6 +149,6 @@ We welcome strategic co-development, research grants, and institutional funding 
 
 For clinical researchers, physical AI engineers, and prospective sponsors:
 * **Direct Project Lead:** Salik Shah — [@salik on X](https://x.com/salik) (DMs open for partnerships)
-* **Institutional Intake Form:** [https://tally.so/r/3yPJEk](https://tally.so/r/3yPJEk)
+* **Institutional Intake Form:** [https://tally.so/r/o96OkV](https://tally.so/r/o96OkV)
 * **GitHub Governance:** [https://github.com/openhairstack/governance](https://github.com/openhairstack/governance)
 * **Live Interactive Demo:** [https://huggingface.co/spaces/openhairstack/scalp-analyzer](https://huggingface.co/spaces/openhairstack/scalp-analyzer)
