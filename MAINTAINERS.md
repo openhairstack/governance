@@ -4,7 +4,7 @@
 
 | Name | Handle | Role | Since |
 |---|---|---|---|
-| Salik Shah | [@salik on X](https://x.com/salik) | Founder — vision, product, community | 2026-10 |
+| Salik Shah | [@salik on X](https://x.com/salik) | Lead Maintainer & Author | 2026-10 |
 | _(open seat)_ | | Research/science lead | |
 | _(open seat)_ | | CV/ML lead | |
 | _(open seat)_ | | Data lead | |
